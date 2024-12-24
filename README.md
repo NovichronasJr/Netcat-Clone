@@ -1,5 +1,5 @@
 # Netcat Replacement
-![Netcat Logo](https://via.placeholder.com/150 "Netcat Replacement Logo")
+![Netcat Logo](https://github.com/NovichronasJr/Netcat-Clone/blob/main/88245fa820f9fd62ff1a786f9bc15a26-removebg-preview.png "Netcat Replacement Logo")
 
 This is a Python-based implementation of a Netcat-like tool for networking tasks. It supports server-client communication, file uploads, command execution, and an interactive shell. This project is a good starting point to understand socket programming, threading, and basic command-line networking tools.
 
